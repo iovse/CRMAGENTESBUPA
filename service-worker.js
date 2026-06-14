@@ -2,7 +2,7 @@
 const CACHE = 'bupa-crm-v2';
 const ASSETS = [
   './',
-  './Agentes BUPA v2.html',
+  './index.html',
   './manifest.webmanifest',
   './icon-192.png',
   './icon-512.png',
@@ -32,6 +32,6 @@ self.addEventListener('fetch', e => {
       const copy = resp.clone();
       caches.open(CACHE).then(c => c.put(e.request, copy)).catch(()=>{});
       return resp;
-    }).catch(() => caches.match('./Agentes BUPA v2.html')))
+    }).catch(() => caches.match('./index.html')))
   );
 });

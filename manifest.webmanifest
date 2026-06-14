@@ -2,7 +2,7 @@
   "name": "CRM Agentes BUPA",
   "short_name": "Agentes BUPA",
   "description": "Sistema de seguimiento y promoción comercial para agentes BUPA",
-  "start_url": "./Agentes BUPA v2.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
