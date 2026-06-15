@@ -1,5 +1,5 @@
 // Service worker mínimo para soporte offline
-const CACHE = 'bupa-crm-v2';
+const CACHE = 'bupa-crm-v3';
 const ASSETS = [
   './',
   './index.html',
