@@ -5,6 +5,10 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
 <meta name="theme-color" content="#0a2d6e">
 <meta name="apple-mobile-web-app-capable" content="yes">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta name="app-version" content="v4-2026-06-15">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Agentes BUPA">
@@ -539,6 +543,7 @@ a:hover{text-decoration:underline}
     <span class="brand-icon">B</span>
     <span>Agentes BUPA</span>
     <span class="app-subtitle">· Esther Tawil</span>
+    <span class="app-subtitle" style="opacity:.5;font-size:11px">v4</span>
   </div>
   <div class="header-stats">
     <span class="stat-chip">Total <b id="stat-total">0</b></span>
@@ -1529,7 +1534,22 @@ function escHtml(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&l
 function registerSW(){
   if(!('serviceWorker' in navigator)) return;
   if(location.protocol === 'file:') return; // SW no funciona desde file://
-  navigator.serviceWorker.register('service-worker.js').catch(err=>{
+  navigator.serviceWorker.register('service-worker.js').then(reg => {
+    // Fuerza buscar updates inmediatamente y cada vez que la app vuelve a foreground
+    reg.update().catch(()=>{});
+    document.addEventListener('visibilitychange', ()=>{ if(!document.hidden) reg.update().catch(()=>{}); });
+    // Si hay un SW nuevo esperando, recarga automáticamente
+    reg.addEventListener('updatefound', ()=>{
+      const nw = reg.installing;
+      if(!nw) return;
+      nw.addEventListener('statechange', ()=>{
+        if(nw.state === 'activated' && navigator.serviceWorker.controller){
+          // ya hay controller previo → nueva versión instalada; recargar una vez
+          if(!window._reloadedForSW){ window._reloadedForSW = true; location.reload(); }
+        }
+      });
+    });
+  }).catch(err=>{
     console.warn('SW registration failed', err);
   });
 }
