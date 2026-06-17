@@ -1,0 +1,3992 @@
+{
+  "fecha_snapshot": "2026-06-17",
+  "fuente": "services.bupa.com.mx/Agent/api/v1/agents/{id}/commissionPayments/{pid}/commissions",
+  "ano": 2026,
+  "agentes_totales": 150,
+  "agentes_con_pagos_2026": 55,
+  "agentes_con_nombre": 55,
+  "commission_types_vistos": [
+    "NB Commissions",
+    "RN Commissions",
+    "ADJ Commissions"
+  ],
+  "agentes": {
+    "4385": {
+      "agentId": "4385",
+      "nombre": "MIGUELEZ PRIETO,  ANA MARTHA",
+      "ytd_payment_count": 6,
+      "ytd_paid_total": 8384.05,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 776.5,
+          "subtotal": 814.51,
+          "count": 3
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 45245.61,
+          "subtotal": 47460.43,
+          "count": 4
+        }
+      },
+      "last_payment": {
+        "date": "06/09/2026",
+        "paymentTotal": 2616.33,
+        "paymentId": 1751090
+      },
+      "payments_2026": [
+        {
+          "date": "01/13/2026",
+          "total": 776.5,
+          "paymentId": 1716721
+        },
+        {
+          "date": "01/20/2026",
+          "total": 1718.35,
+          "paymentId": 1718213
+        },
+        {
+          "date": "02/10/2026",
+          "total": 2275.83,
+          "paymentId": 1722552
+        },
+        {
+          "date": "04/14/2026",
+          "total": 776.5,
+          "paymentId": 1737367
+        },
+        {
+          "date": "05/12/2026",
+          "total": 220.54,
+          "paymentId": 1744525
+        },
+        {
+          "date": "06/09/2026",
+          "total": 2616.33,
+          "paymentId": 1751090
+        }
+      ]
+    },
+    "5311": {
+      "agentId": "5311",
+      "nombre": "ESTAVILLO MAYER,  ALBERTO",
+      "ytd_payment_count": 6,
+      "ytd_paid_total": 11802.99,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 16622.95,
+          "subtotal": 17436.7,
+          "count": 7
+        },
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 5602,
+          "subtotal": 5876.22,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "05/19/2026",
+        "paymentTotal": 543.06,
+        "paymentId": 1745582
+      },
+      "payments_2026": [
+        {
+          "date": "01/13/2026",
+          "total": 2579.43,
+          "paymentId": 1716731
+        },
+        {
+          "date": "02/10/2026",
+          "total": 6145.06,
+          "paymentId": 1722585
+        },
+        {
+          "date": "03/17/2026",
+          "total": 543.06,
+          "paymentId": 1730783
+        },
+        {
+          "date": "03/31/2026",
+          "total": 543.06,
+          "paymentId": 1734253
+        },
+        {
+          "date": "05/12/2026",
+          "total": 1449.32,
+          "paymentId": 1744536
+        },
+        {
+          "date": "05/19/2026",
+          "total": 543.06,
+          "paymentId": 1745582
+        }
+      ]
+    },
+    "7965": {
+      "agentId": "7965",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "8840": {
+      "agentId": "8840",
+      "nombre": "MORENO FLEISHER,  JAIME MANUEL",
+      "ytd_payment_count": 2,
+      "ytd_paid_total": 35861.45,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 9453.59,
+          "subtotal": 9082.689999999999,
+          "count": 14
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 55960,
+          "subtotal": 53764.63999999999,
+          "count": 14
+        }
+      },
+      "last_payment": {
+        "date": "05/19/2026",
+        "paymentTotal": 26744.04,
+        "paymentId": 1745615
+      },
+      "payments_2026": [
+        {
+          "date": "03/03/2026",
+          "total": 9117.41,
+          "paymentId": 1727296
+        },
+        {
+          "date": "05/19/2026",
+          "total": 26744.04,
+          "paymentId": 1745615
+        }
+      ]
+    },
+    "8885": {
+      "agentId": "8885",
+      "nombre": "SASSON JABER,  GUILLERMO JOSEPH",
+      "ytd_payment_count": 9,
+      "ytd_paid_total": 28097.33,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 9041.630000000001,
+          "subtotal": 8686.91,
+          "count": 3
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 273505.92000000004,
+          "subtotal": 262775.93,
+          "count": 16
+        }
+      },
+      "last_payment": {
+        "date": "06/09/2026",
+        "paymentTotal": 4957.21,
+        "paymentId": 1751125
+      },
+      "payments_2026": [
+        {
+          "date": "01/13/2026",
+          "total": 2985.61,
+          "paymentId": 1716754
+        },
+        {
+          "date": "01/27/2026",
+          "total": 3537.45,
+          "paymentId": 1719726
+        },
+        {
+          "date": "02/24/2026",
+          "total": 136.42,
+          "paymentId": 1725699
+        },
+        {
+          "date": "03/24/2026",
+          "total": 136.42,
+          "paymentId": 1732793
+        },
+        {
+          "date": "03/31/2026",
+          "total": 5355.91,
+          "paymentId": 1734271
+        },
+        {
+          "date": "04/14/2026",
+          "total": 9047.2,
+          "paymentId": 1737406
+        },
+        {
+          "date": "04/21/2026",
+          "total": 1804.69,
+          "paymentId": 1739120
+        },
+        {
+          "date": "04/28/2026",
+          "total": 136.42,
+          "paymentId": 1741037
+        },
+        {
+          "date": "06/09/2026",
+          "total": 4957.21,
+          "paymentId": 1751125
+        }
+      ]
+    },
+    "9084": {
+      "agentId": "9084",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "9174": {
+      "agentId": "9174",
+      "nombre": "REUNE AGENTE DE SEGUROS Y DE FIANZAS",
+      "ytd_payment_count": 16,
+      "ytd_paid_total": 199599.31,
+      "ytd_breakdown": {
+        "NB Commissions|3215 - NADER HAYAUX Y GOEBEL SC": {
+          "type": "NB Commissions",
+          "group": "3215 - NADER HAYAUX Y GOEBEL SC",
+          "total": 30266.58,
+          "subtotal": 26091.91,
+          "count": 13
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 727337.6599999999,
+          "subtotal": 627015.31,
+          "count": 44
+        },
+        "RN Commissions|3215 - NADER HAYAUX Y GOEBEL SC": {
+          "type": "RN Commissions",
+          "group": "3215 - NADER HAYAUX Y GOEBEL SC",
+          "total": 236264.91000000003,
+          "subtotal": 203676.76,
+          "count": 37
+        },
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 45827.880000000005,
+          "subtotal": 39506.8,
+          "count": 3
+        },
+        "RN Commissions|3011 - LITTLER MEXICO SC": {
+          "type": "RN Commissions",
+          "group": "3011 - LITTLER MEXICO SC",
+          "total": 574569.04,
+          "subtotal": 495318.14,
+          "count": 8
+        }
+      },
+      "last_payment": {
+        "date": "06/16/2026",
+        "paymentTotal": 8367.55,
+        "paymentId": 1753150
+      },
+      "payments_2026": [
+        {
+          "date": "01/13/2026",
+          "total": 18135.27,
+          "paymentId": 1716757
+        },
+        {
+          "date": "01/20/2026",
+          "total": 6509.57,
+          "paymentId": 1718115
+        },
+        {
+          "date": "01/27/2026",
+          "total": 745.25,
+          "paymentId": 1719729
+        },
+        {
+          "date": "02/10/2026",
+          "total": 5164.71,
+          "paymentId": 1722629
+        },
+        {
+          "date": "02/17/2026",
+          "total": 9837.9,
+          "paymentId": 1724116
+        },
+        {
+          "date": "03/10/2026",
+          "total": 19308.64,
+          "paymentId": 1728987
+        },
+        {
+          "date": "03/17/2026",
+          "total": 18940.81,
+          "paymentId": 1730831
+        },
+        {
+          "date": "03/31/2026",
+          "total": 5497.75,
+          "paymentId": 1734273
+        },
+        {
+          "date": "04/14/2026",
+          "total": 12358.39,
+          "paymentId": 1737411
+        },
+        {
+          "date": "04/21/2026",
+          "total": 4462.48,
+          "paymentId": 1739121
+        },
+        {
+          "date": "04/28/2026",
+          "total": 46332.22,
+          "paymentId": 1741042
+        },
+        {
+          "date": "05/12/2026",
+          "total": 4249.01,
+          "paymentId": 1744566
+        },
+        {
+          "date": "05/19/2026",
+          "total": 644.33,
+          "paymentId": 1745618
+        },
+        {
+          "date": "05/26/2026",
+          "total": 4093.84,
+          "paymentId": 1747773
+        },
+        {
+          "date": "06/09/2026",
+          "total": 34951.59,
+          "paymentId": 1751128
+        },
+        {
+          "date": "06/16/2026",
+          "total": 8367.55,
+          "paymentId": 1753150
+        }
+      ]
+    },
+    "9826": {
+      "agentId": "9826",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "10078": {
+      "agentId": "10078",
+      "nombre": "ACMES AGENTE DE SEGUROS Y DE FIANZAS S.A DE C.V.",
+      "ytd_payment_count": 3,
+      "ytd_paid_total": 36788.99,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 27140.850000000002,
+          "subtotal": 23397.29,
+          "count": 6
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 64781.79000000001,
+          "subtotal": 55846.32999999999,
+          "count": 20
+        }
+      },
+      "last_payment": {
+        "date": "05/12/2026",
+        "paymentTotal": 34243.38,
+        "paymentId": 1744621
+      },
+      "payments_2026": [
+        {
+          "date": "01/05/2026",
+          "total": 2403.17,
+          "paymentId": 1715551
+        },
+        {
+          "date": "01/27/2026",
+          "total": 142.44,
+          "paymentId": 1719743
+        },
+        {
+          "date": "05/12/2026",
+          "total": 34243.38,
+          "paymentId": 1744621
+        }
+      ]
+    },
+    "10094": {
+      "agentId": "10094",
+      "nombre": "BARCENAS RUIZ,  LAURA",
+      "ytd_payment_count": 1,
+      "ytd_paid_total": 206.92,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 2586.53,
+          "subtotal": 2713.14,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "01/20/2026",
+        "paymentTotal": 206.92,
+        "paymentId": 1718162
+      },
+      "payments_2026": [
+        {
+          "date": "01/20/2026",
+          "total": 206.92,
+          "paymentId": 1718162
+        }
+      ]
+    },
+    "10655": {
+      "agentId": "10655",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "11424": {
+      "agentId": "11424",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "11479": {
+      "agentId": "11479",
+      "nombre": "LOKIER GORBACH,  SANDRA",
+      "ytd_payment_count": 12,
+      "ytd_paid_total": 40265.4,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 301812.50000000006,
+          "subtotal": 316586.56,
+          "count": 18
+        },
+        "ADJ Commissions|Individual Policies": {
+          "type": "ADJ Commissions",
+          "group": "Individual Policies",
+          "total": -13655.25,
+          "subtotal": -14323.69,
+          "count": 1
+        },
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 6747.1,
+          "subtotal": 7077.38,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "06/16/2026",
+        "paymentTotal": 539.77,
+        "paymentId": 1753429
+      },
+      "payments_2026": [
+        {
+          "date": "01/05/2026",
+          "total": 517.45,
+          "paymentId": 1715688
+        },
+        {
+          "date": "01/13/2026",
+          "total": 2489.57,
+          "paymentId": 1717316
+        },
+        {
+          "date": "01/27/2026",
+          "total": 2221.15,
+          "paymentId": 1720008
+        },
+        {
+          "date": "02/24/2026",
+          "total": 16338.9,
+          "paymentId": 1726227
+        },
+        {
+          "date": "03/17/2026",
+          "total": 6461.04,
+          "paymentId": 1731184
+        },
+        {
+          "date": "03/31/2026",
+          "total": 2299.54,
+          "paymentId": 1734501
+        },
+        {
+          "date": "04/14/2026",
+          "total": 517.45,
+          "paymentId": 1737693
+        },
+        {
+          "date": "04/21/2026",
+          "total": 1149.77,
+          "paymentId": 1739473
+        },
+        {
+          "date": "05/12/2026",
+          "total": 4153.2,
+          "paymentId": 1744078
+        },
+        {
+          "date": "05/19/2026",
+          "total": 3395.48,
+          "paymentId": 1745922
+        },
+        {
+          "date": "06/09/2026",
+          "total": 182.08,
+          "paymentId": 1751428
+        },
+        {
+          "date": "06/16/2026",
+          "total": 539.77,
+          "paymentId": 1753429
+        }
+      ]
+    },
+    "12026": {
+      "agentId": "12026",
+      "nombre": "MARTOS ARRIOJA,  LEONARDO",
+      "ytd_payment_count": 5,
+      "ytd_paid_total": 5231.66,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 65395.750000000015,
+          "subtotal": 62830.17999999999,
+          "count": 11
+        }
+      },
+      "last_payment": {
+        "date": "06/16/2026",
+        "paymentTotal": 1873.86,
+        "paymentId": 1753435
+      },
+      "payments_2026": [
+        {
+          "date": "03/03/2026",
+          "total": 1943.06,
+          "paymentId": 1727507
+        },
+        {
+          "date": "03/24/2026",
+          "total": 471.58,
+          "paymentId": 1733043
+        },
+        {
+          "date": "04/21/2026",
+          "total": 471.58,
+          "paymentId": 1739477
+        },
+        {
+          "date": "05/26/2026",
+          "total": 471.58,
+          "paymentId": 1748037
+        },
+        {
+          "date": "06/16/2026",
+          "total": 1873.86,
+          "paymentId": 1753435
+        }
+      ]
+    },
+    "12160": {
+      "agentId": "12160",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "12627": {
+      "agentId": "12627",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "12642": {
+      "agentId": "12642",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "12861": {
+      "agentId": "12861",
+      "nombre": "ALCALA SALCEDO,  ANDREA",
+      "ytd_payment_count": 15,
+      "ytd_paid_total": 365837.76,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 177083.75,
+          "subtotal": 185752.20999999996,
+          "count": 61
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 270840.96,
+          "subtotal": 284098.88999999996,
+          "count": 103
+        },
+        "ADJ Commissions|Individual Policies": {
+          "type": "ADJ Commissions",
+          "group": "Individual Policies",
+          "total": 72816.14,
+          "subtotal": 76380.58,
+          "count": 2
+        }
+      },
+      "last_payment": {
+        "date": "06/02/2026",
+        "paymentTotal": 30443.82,
+        "paymentId": 1749503
+      },
+      "payments_2026": [
+        {
+          "date": "01/05/2026",
+          "total": 17499.57,
+          "paymentId": 1715563
+        },
+        {
+          "date": "01/13/2026",
+          "total": 13801.07,
+          "paymentId": 1716820
+        },
+        {
+          "date": "01/20/2026",
+          "total": 24728.61,
+          "paymentId": 1718217
+        },
+        {
+          "date": "01/27/2026",
+          "total": 1653.19,
+          "paymentId": 1719838
+        },
+        {
+          "date": "02/17/2026",
+          "total": 69309.92,
+          "paymentId": 1724231
+        },
+        {
+          "date": "03/10/2026",
+          "total": 79404.71,
+          "paymentId": 1729154
+        },
+        {
+          "date": "03/17/2026",
+          "total": 9381.89,
+          "paymentId": 1730892
+        },
+        {
+          "date": "03/24/2026",
+          "total": 5030.97,
+          "paymentId": 1732871
+        },
+        {
+          "date": "03/31/2026",
+          "total": 13925.16,
+          "paymentId": 1734303
+        },
+        {
+          "date": "04/14/2026",
+          "total": 8557.95,
+          "paymentId": 1737460
+        },
+        {
+          "date": "04/21/2026",
+          "total": 2520.24,
+          "paymentId": 1739833
+        },
+        {
+          "date": "04/28/2026",
+          "total": 30929.33,
+          "paymentId": 1741103
+        },
+        {
+          "date": "05/19/2026",
+          "total": 43828.67,
+          "paymentId": 1745679
+        },
+        {
+          "date": "05/26/2026",
+          "total": 14822.66,
+          "paymentId": 1747839
+        },
+        {
+          "date": "06/02/2026",
+          "total": 30443.82,
+          "paymentId": 1749503
+        }
+      ]
+    },
+    "13008": {
+      "agentId": "13008",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "13129": {
+      "agentId": "13129",
+      "nombre": "LOZANO Y ASOCIADOS, AGENTE DE SEGUROS S.A. DE C.V.",
+      "ytd_payment_count": 1,
+      "ytd_paid_total": 10192.53,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 6079.2300000000005,
+          "subtotal": 5240.7300000000005,
+          "count": 3
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 51416.27000000001,
+          "subtotal": 44324.34999999999,
+          "count": 8
+        }
+      },
+      "last_payment": {
+        "date": "04/07/2026",
+        "paymentTotal": 10192.53,
+        "paymentId": 1735745
+      },
+      "payments_2026": [
+        {
+          "date": "04/07/2026",
+          "total": 10192.53,
+          "paymentId": 1735745
+        }
+      ]
+    },
+    "13186": {
+      "agentId": "13186",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "13357": {
+      "agentId": "13357",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "13488": {
+      "agentId": "13488",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "13626": {
+      "agentId": "13626",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "13641": {
+      "agentId": "13641",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "13663": {
+      "agentId": "13663",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "13674": {
+      "agentId": "13674",
+      "nombre": "VOGEL SADI,  ROSSY",
+      "ytd_payment_count": 24,
+      "ytd_paid_total": 186432.13,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 33849.52,
+          "subtotal": 35506.5,
+          "count": 13
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 933036.26,
+          "subtotal": 978709.5200000001,
+          "count": 75
+        }
+      },
+      "last_payment": {
+        "date": "06/16/2026",
+        "paymentTotal": 2185.69,
+        "paymentId": 1753461
+      },
+      "payments_2026": [
+        {
+          "date": "01/05/2026",
+          "total": 1356.87,
+          "paymentId": 1715709
+        },
+        {
+          "date": "01/13/2026",
+          "total": 10589.1,
+          "paymentId": 1717348
+        },
+        {
+          "date": "01/20/2026",
+          "total": 6706.04,
+          "paymentId": 1718368
+        },
+        {
+          "date": "01/27/2026",
+          "total": 10722.59,
+          "paymentId": 1720043
+        },
+        {
+          "date": "02/03/2026",
+          "total": 12503.06,
+          "paymentId": 1721381
+        },
+        {
+          "date": "02/10/2026",
+          "total": 1356.87,
+          "paymentId": 1723128
+        },
+        {
+          "date": "02/17/2026",
+          "total": 2173.89,
+          "paymentId": 1724569
+        },
+        {
+          "date": "02/24/2026",
+          "total": 1708.99,
+          "paymentId": 1726254
+        },
+        {
+          "date": "03/03/2026",
+          "total": 22056.12,
+          "paymentId": 1727539
+        },
+        {
+          "date": "03/10/2026",
+          "total": 10935.81,
+          "paymentId": 1729323
+        },
+        {
+          "date": "03/17/2026",
+          "total": 1822.63,
+          "paymentId": 1731408
+        },
+        {
+          "date": "03/24/2026",
+          "total": 1654.92,
+          "paymentId": 1733069
+        },
+        {
+          "date": "03/31/2026",
+          "total": 294.02,
+          "paymentId": 1734531
+        },
+        {
+          "date": "04/07/2026",
+          "total": 19114.34,
+          "paymentId": 1736058
+        },
+        {
+          "date": "04/14/2026",
+          "total": 5094.46,
+          "paymentId": 1737731
+        },
+        {
+          "date": "04/21/2026",
+          "total": 4982.36,
+          "paymentId": 1739506
+        },
+        {
+          "date": "04/28/2026",
+          "total": 25908.34,
+          "paymentId": 1741367
+        },
+        {
+          "date": "05/05/2026",
+          "total": 6130.24,
+          "paymentId": 1742705
+        },
+        {
+          "date": "05/12/2026",
+          "total": 13314.91,
+          "paymentId": 1744120
+        },
+        {
+          "date": "05/19/2026",
+          "total": 703.82,
+          "paymentId": 1745950
+        },
+        {
+          "date": "05/26/2026",
+          "total": 2836.42,
+          "paymentId": 1748066
+        },
+        {
+          "date": "06/02/2026",
+          "total": 6738.37,
+          "paymentId": 1749678
+        },
+        {
+          "date": "06/09/2026",
+          "total": 15542.27,
+          "paymentId": 1751587
+        },
+        {
+          "date": "06/16/2026",
+          "total": 2185.69,
+          "paymentId": 1753461
+        }
+      ]
+    },
+    "13861": {
+      "agentId": "13861",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "14158": {
+      "agentId": "14158",
+      "nombre": "PINEDA NUÑEZ,  VIVIANA ELOINA",
+      "ytd_payment_count": 10,
+      "ytd_paid_total": 56607.77,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 36319.5,
+          "subtotal": 38097.38,
+          "count": 6
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 90912.27999999997,
+          "subtotal": 95362.54,
+          "count": 23
+        }
+      },
+      "last_payment": {
+        "date": "06/16/2026",
+        "paymentTotal": 1384.73,
+        "paymentId": 1753209
+      },
+      "payments_2026": [
+        {
+          "date": "01/13/2026",
+          "total": 6890.43,
+          "paymentId": 1716899
+        },
+        {
+          "date": "01/27/2026",
+          "total": 832.09,
+          "paymentId": 1719602
+        },
+        {
+          "date": "02/10/2026",
+          "total": 4375.54,
+          "paymentId": 1722561
+        },
+        {
+          "date": "02/24/2026",
+          "total": 832.09,
+          "paymentId": 1725765
+        },
+        {
+          "date": "03/24/2026",
+          "total": 2033.16,
+          "paymentId": 1732885
+        },
+        {
+          "date": "04/07/2026",
+          "total": 6348.59,
+          "paymentId": 1735761
+        },
+        {
+          "date": "05/12/2026",
+          "total": 4545,
+          "paymentId": 1744714
+        },
+        {
+          "date": "05/19/2026",
+          "total": 27840.23,
+          "paymentId": 1745703
+        },
+        {
+          "date": "05/26/2026",
+          "total": 1525.91,
+          "paymentId": 1747856
+        },
+        {
+          "date": "06/16/2026",
+          "total": 1384.73,
+          "paymentId": 1753209
+        }
+      ]
+    },
+    "14270": {
+      "agentId": "14270",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "14271": {
+      "agentId": "14271",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "14286": {
+      "agentId": "14286",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "14368": {
+      "agentId": "14368",
+      "nombre": "VARGAS CISNEROS,  ROBERTO",
+      "ytd_payment_count": 3,
+      "ytd_paid_total": 4368.44,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 37712.06,
+          "subtotal": 39558.11,
+          "count": 2
+        },
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 16893.42,
+          "subtotal": 17720.37,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "06/09/2026",
+        "paymentTotal": 1351.47,
+        "paymentId": 1751599
+      },
+      "payments_2026": [
+        {
+          "date": "03/17/2026",
+          "total": 1986.54,
+          "paymentId": 1731422
+        },
+        {
+          "date": "03/24/2026",
+          "total": 1030.43,
+          "paymentId": 1733086
+        },
+        {
+          "date": "06/09/2026",
+          "total": 1351.47,
+          "paymentId": 1751599
+        }
+      ]
+    },
+    "14372": {
+      "agentId": "14372",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "14485": {
+      "agentId": "14485",
+      "nombre": "RODRIGUEZ VILAS,  JOSE CARLOS",
+      "ytd_payment_count": 1,
+      "ytd_paid_total": 12934.06,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 12934.06,
+          "subtotal": 13567.2,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "05/12/2026",
+        "paymentTotal": 12934.06,
+        "paymentId": 1744724
+      },
+      "payments_2026": [
+        {
+          "date": "05/12/2026",
+          "total": 12934.06,
+          "paymentId": 1744724
+        }
+      ]
+    },
+    "14487": {
+      "agentId": "14487",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "14517": {
+      "agentId": "14517",
+      "nombre": "MORALES PEREZ,  MONICA",
+      "ytd_payment_count": 1,
+      "ytd_paid_total": 1777.36,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 22217.02,
+          "subtotal": 21345.41,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "03/31/2026",
+        "paymentTotal": 1777.36,
+        "paymentId": 1734554
+      },
+      "payments_2026": [
+        {
+          "date": "03/31/2026",
+          "total": 1777.36,
+          "paymentId": 1734554
+        }
+      ]
+    },
+    "14526": {
+      "agentId": "14526",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "14549": {
+      "agentId": "14549",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "14559": {
+      "agentId": "14559",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "14656": {
+      "agentId": "14656",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "14689": {
+      "agentId": "14689",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "14766": {
+      "agentId": "14766",
+      "nombre": "OLIVARES SOTO,  SERGIO RICARDO",
+      "ytd_payment_count": 5,
+      "ytd_paid_total": 10196.68,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 3566.8,
+          "subtotal": 3426.9,
+          "count": 5
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 82873.35,
+          "subtotal": 79622.13,
+          "count": 4
+        }
+      },
+      "last_payment": {
+        "date": "06/16/2026",
+        "paymentTotal": 5487.07,
+        "paymentId": 1753223
+      },
+      "payments_2026": [
+        {
+          "date": "02/10/2026",
+          "total": 713.36,
+          "paymentId": 1722653
+        },
+        {
+          "date": "03/24/2026",
+          "total": 1142.8,
+          "paymentId": 1732715
+        },
+        {
+          "date": "04/21/2026",
+          "total": 2140.09,
+          "paymentId": 1739193
+        },
+        {
+          "date": "05/12/2026",
+          "total": 713.36,
+          "paymentId": 1744733
+        },
+        {
+          "date": "06/16/2026",
+          "total": 5487.07,
+          "paymentId": 1753223
+        }
+      ]
+    },
+    "14779": {
+      "agentId": "14779",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "14802": {
+      "agentId": "14802",
+      "nombre": "SEGURIDAD ARIEVA, AGENTE DE SEGUROS",
+      "ytd_payment_count": 24,
+      "ytd_paid_total": 3681001.97,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 1117931.11,
+          "subtotal": 963733.94,
+          "count": 650
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 15823204.35,
+          "subtotal": 13640694.820000004,
+          "count": 3073
+        },
+        "RN Commissions|3084 - PANEL GO SA DE CV": {
+          "type": "RN Commissions",
+          "group": "3084 - PANEL GO SA DE CV",
+          "total": 420350.61,
+          "subtotal": 362371.2,
+          "count": 53
+        },
+        "NB Commissions|1568 - DIFUSION Y CULTURA HEBRAICA": {
+          "type": "NB Commissions",
+          "group": "1568 - DIFUSION Y CULTURA HEBRAICA",
+          "total": -2395.47,
+          "subtotal": -2065.06,
+          "count": 1
+        },
+        "NB Commissions|2483 - PANEL GO S.A DE C.V": {
+          "type": "NB Commissions",
+          "group": "2483 - PANEL GO S.A DE C.V",
+          "total": -5630.75,
+          "subtotal": -4854.099999999999,
+          "count": 3
+        },
+        "RN Commissions|1568 - DIFUSION Y CULTURA HEBRAICA": {
+          "type": "RN Commissions",
+          "group": "1568 - DIFUSION Y CULTURA HEBRAICA",
+          "total": 85288.78,
+          "subtotal": 73524.8,
+          "count": 14
+        },
+        "RN Commissions|1674 - PANEL GO SA DE CV": {
+          "type": "RN Commissions",
+          "group": "1674 - PANEL GO SA DE CV",
+          "total": 139770.2,
+          "subtotal": 120491.55999999998,
+          "count": 16
+        },
+        "RN Commissions|2483 - PANEL GO S.A DE C.V": {
+          "type": "RN Commissions",
+          "group": "2483 - PANEL GO S.A DE C.V",
+          "total": 81554.14,
+          "subtotal": 70305.29999999999,
+          "count": 8
+        },
+        "RN Commissions|2515 - PANEL GO SA DE CV": {
+          "type": "RN Commissions",
+          "group": "2515 - PANEL GO SA DE CV",
+          "total": 130043.93,
+          "subtotal": 112106.84,
+          "count": 8
+        },
+        "NB Commissions|1041 - SOLUCION ACTIVA ET": {
+          "type": "NB Commissions",
+          "group": "1041 - SOLUCION ACTIVA ET",
+          "total": -5768.98,
+          "subtotal": -4973.26,
+          "count": 3
+        },
+        "RN Commissions|1041 - SOLUCION ACTIVA ET": {
+          "type": "RN Commissions",
+          "group": "1041 - SOLUCION ACTIVA ET",
+          "total": 156528.53000000003,
+          "subtotal": 134938.39999999997,
+          "count": 10
+        },
+        "ADJ Commissions|Individual Policies": {
+          "type": "ADJ Commissions",
+          "group": "Individual Policies",
+          "total": -36021.63,
+          "subtotal": -31053.13,
+          "count": 3
+        },
+        "RN Commissions|1061 - TEODORO MYSLABODSKI LEJTMAN": {
+          "type": "RN Commissions",
+          "group": "1061 - TEODORO MYSLABODSKI LEJTMAN",
+          "total": 74170.37000000002,
+          "subtotal": 63939.96,
+          "count": 12
+        },
+        "RN Commissions|1209 - BLACK STORM SA DE CV": {
+          "type": "RN Commissions",
+          "group": "1209 - BLACK STORM SA DE CV",
+          "total": 162829.12,
+          "subtotal": 140369.92,
+          "count": 10
+        },
+        "NB Commissions|1209 - BLACK STORM SA DE CV": {
+          "type": "NB Commissions",
+          "group": "1209 - BLACK STORM SA DE CV",
+          "total": 8389,
+          "subtotal": 7231.900000000001,
+          "count": 3
+        },
+        "NB Commissions|1064 - SOLUCION ACTIVA ET": {
+          "type": "NB Commissions",
+          "group": "1064 - SOLUCION ACTIVA ET",
+          "total": -10599.32,
+          "subtotal": -9137.34,
+          "count": 3
+        },
+        "RN Commissions|1064 - SOLUCION ACTIVA ET": {
+          "type": "RN Commissions",
+          "group": "1064 - SOLUCION ACTIVA ET",
+          "total": 123557.11,
+          "subtotal": 106514.76000000001,
+          "count": 14
+        },
+        "NB Commissions|3084 - PANEL GO SA DE CV": {
+          "type": "NB Commissions",
+          "group": "3084 - PANEL GO SA DE CV",
+          "total": -5461.4,
+          "subtotal": -4708.1,
+          "count": 1
+        },
+        "RN Commissions|1087 - SOLUCION ACTIVA ET": {
+          "type": "RN Commissions",
+          "group": "1087 - SOLUCION ACTIVA ET",
+          "total": 273292.06,
+          "subtotal": 235596.59999999995,
+          "count": 16
+        }
+      },
+      "last_payment": {
+        "date": "06/16/2026",
+        "paymentTotal": 146304.06,
+        "paymentId": 1753485
+      },
+      "payments_2026": [
+        {
+          "date": "01/05/2026",
+          "total": 59509.24,
+          "paymentId": 1715721
+        },
+        {
+          "date": "01/13/2026",
+          "total": 177453.24,
+          "paymentId": 1717379
+        },
+        {
+          "date": "01/20/2026",
+          "total": 182906.81,
+          "paymentId": 1718424
+        },
+        {
+          "date": "01/27/2026",
+          "total": 162844.49,
+          "paymentId": 1720068
+        },
+        {
+          "date": "02/03/2026",
+          "total": 149733.48,
+          "paymentId": 1720984
+        },
+        {
+          "date": "02/10/2026",
+          "total": 205460.01,
+          "paymentId": 1723150
+        },
+        {
+          "date": "02/17/2026",
+          "total": 137076.25,
+          "paymentId": 1724804
+        },
+        {
+          "date": "02/24/2026",
+          "total": 120526.71,
+          "paymentId": 1726282
+        },
+        {
+          "date": "03/03/2026",
+          "total": 131813.18,
+          "paymentId": 1727589
+        },
+        {
+          "date": "03/10/2026",
+          "total": 151666.63,
+          "paymentId": 1729346
+        },
+        {
+          "date": "03/17/2026",
+          "total": 121981.08,
+          "paymentId": 1731432
+        },
+        {
+          "date": "03/24/2026",
+          "total": 171377.79,
+          "paymentId": 1733098
+        },
+        {
+          "date": "03/31/2026",
+          "total": 117262.58,
+          "paymentId": 1734560
+        },
+        {
+          "date": "04/07/2026",
+          "total": 93632.47,
+          "paymentId": 1736079
+        },
+        {
+          "date": "04/14/2026",
+          "total": 163047.8,
+          "paymentId": 1737758
+        },
+        {
+          "date": "04/21/2026",
+          "total": 197640.79,
+          "paymentId": 1739535
+        },
+        {
+          "date": "04/28/2026",
+          "total": 169891.28,
+          "paymentId": 1741401
+        },
+        {
+          "date": "05/05/2026",
+          "total": 136644.89,
+          "paymentId": 1742728
+        },
+        {
+          "date": "05/12/2026",
+          "total": 135173.36,
+          "paymentId": 1744472
+        },
+        {
+          "date": "05/19/2026",
+          "total": 165418.19,
+          "paymentId": 1745981
+        },
+        {
+          "date": "05/26/2026",
+          "total": 181250.37,
+          "paymentId": 1748096
+        },
+        {
+          "date": "06/02/2026",
+          "total": 205646.34,
+          "paymentId": 1750067
+        },
+        {
+          "date": "06/10/2026",
+          "total": 196740.93,
+          "paymentId": 1752042
+        },
+        {
+          "date": "06/16/2026",
+          "total": 146304.06,
+          "paymentId": 1753485
+        }
+      ]
+    },
+    "14847": {
+      "agentId": "14847",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "14939": {
+      "agentId": "14939",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "15103": {
+      "agentId": "15103",
+      "nombre": "PEREZ BADILLO,  LIZBETH",
+      "ytd_payment_count": 8,
+      "ytd_paid_total": 37497.61,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 74637.12,
+          "subtotal": 71708.99,
+          "count": 6
+        },
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 28008.11,
+          "subtotal": 26909.32,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "06/09/2026",
+        "paymentTotal": 1583.64,
+        "paymentId": 1751616
+      },
+      "payments_2026": [
+        {
+          "date": "01/20/2026",
+          "total": 440.77,
+          "paymentId": 1718443
+        },
+        {
+          "date": "02/24/2026",
+          "total": 440.77,
+          "paymentId": 1726286
+        },
+        {
+          "date": "03/10/2026",
+          "total": 28008.11,
+          "paymentId": 1729354
+        },
+        {
+          "date": "03/24/2026",
+          "total": 440.77,
+          "paymentId": 1733102
+        },
+        {
+          "date": "04/21/2026",
+          "total": 439.44,
+          "paymentId": 1739542
+        },
+        {
+          "date": "04/28/2026",
+          "total": 5703.34,
+          "paymentId": 1741407
+        },
+        {
+          "date": "05/19/2026",
+          "total": 440.77,
+          "paymentId": 1745987
+        },
+        {
+          "date": "06/09/2026",
+          "total": 1583.64,
+          "paymentId": 1751616
+        }
+      ]
+    },
+    "15163": {
+      "agentId": "15163",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "15207": {
+      "agentId": "15207",
+      "nombre": "ASSEO ALFIE,  SALVADOR",
+      "ytd_payment_count": 2,
+      "ytd_paid_total": 7155,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 49253.66,
+          "subtotal": 47321.380000000005,
+          "count": 3
+        }
+      },
+      "last_payment": {
+        "date": "03/31/2026",
+        "paymentTotal": 3660.75,
+        "paymentId": 1734573
+      },
+      "payments_2026": [
+        {
+          "date": "02/10/2026",
+          "total": 3494.25,
+          "paymentId": 1723159
+        },
+        {
+          "date": "03/31/2026",
+          "total": 3660.75,
+          "paymentId": 1734573
+        }
+      ]
+    },
+    "15267": {
+      "agentId": "15267",
+      "nombre": "PASILLAS ARTEAGA,  ALEJANDRA",
+      "ytd_payment_count": 10,
+      "ytd_paid_total": 24129.96,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 40645.57,
+          "subtotal": 42635.20999999999,
+          "count": 4
+        },
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 16485.910000000003,
+          "subtotal": 17292.91,
+          "count": 6
+        }
+      },
+      "last_payment": {
+        "date": "06/02/2026",
+        "paymentTotal": 324.7,
+        "paymentId": 1749723
+      },
+      "payments_2026": [
+        {
+          "date": "01/05/2026",
+          "total": 1472.93,
+          "paymentId": 1715732
+        },
+        {
+          "date": "01/20/2026",
+          "total": 904.75,
+          "paymentId": 1718450
+        },
+        {
+          "date": "02/03/2026",
+          "total": 551.26,
+          "paymentId": 1721001
+        },
+        {
+          "date": "02/17/2026",
+          "total": 13835.54,
+          "paymentId": 1724816
+        },
+        {
+          "date": "03/03/2026",
+          "total": 551.26,
+          "paymentId": 1727604
+        },
+        {
+          "date": "03/10/2026",
+          "total": 3551.26,
+          "paymentId": 1729359
+        },
+        {
+          "date": "03/31/2026",
+          "total": 280.29,
+          "paymentId": 1734577
+        },
+        {
+          "date": "04/14/2026",
+          "total": 1472.93,
+          "paymentId": 1737771
+        },
+        {
+          "date": "05/05/2026",
+          "total": 1185.04,
+          "paymentId": 1742741
+        },
+        {
+          "date": "06/02/2026",
+          "total": 324.7,
+          "paymentId": 1749723
+        }
+      ]
+    },
+    "15268": {
+      "agentId": "15268",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "15307": {
+      "agentId": "15307",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "15317": {
+      "agentId": "15317",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "15347": {
+      "agentId": "15347",
+      "nombre": "RANGEL CONTRERAS,  JOAQUIN MANUEL",
+      "ytd_payment_count": 1,
+      "ytd_paid_total": 8617.29,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 107716.1,
+          "subtotal": 112988.93,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "05/12/2026",
+        "paymentTotal": 8617.29,
+        "paymentId": 1744751
+      },
+      "payments_2026": [
+        {
+          "date": "05/12/2026",
+          "total": 8617.29,
+          "paymentId": 1744751
+        }
+      ]
+    },
+    "15534": {
+      "agentId": "15534",
+      "nombre": "GARRO MALDONADO,  MANUEL",
+      "ytd_payment_count": 1,
+      "ytd_paid_total": 1512.69,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 18908.65,
+          "subtotal": 18166.84,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "02/24/2026",
+        "paymentTotal": 1512.69,
+        "paymentId": 1725798
+      },
+      "payments_2026": [
+        {
+          "date": "02/24/2026",
+          "total": 1512.69,
+          "paymentId": 1725798
+        }
+      ]
+    },
+    "15549": {
+      "agentId": "15549",
+      "nombre": "FERNANDEZ MADRID,  MAURICIO ALEJANDRO",
+      "ytd_payment_count": 1,
+      "ytd_paid_total": 4779.77,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 4779.77,
+          "subtotal": 4592.25,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "04/21/2026",
+        "paymentTotal": 4779.77,
+        "paymentId": 1739210
+      },
+      "payments_2026": [
+        {
+          "date": "04/21/2026",
+          "total": 4779.77,
+          "paymentId": 1739210
+        }
+      ]
+    },
+    "15631": {
+      "agentId": "15631",
+      "nombre": "MERELLES TREVIÑO,  MONICA",
+      "ytd_payment_count": 1,
+      "ytd_paid_total": 6159.44,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 6159.44,
+          "subtotal": 6460.95,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "04/07/2026",
+        "paymentTotal": 6159.44,
+        "paymentId": 1735778
+      },
+      "payments_2026": [
+        {
+          "date": "04/07/2026",
+          "total": 6159.44,
+          "paymentId": 1735778
+        }
+      ]
+    },
+    "15738": {
+      "agentId": "15738",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "15827": {
+      "agentId": "15827",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "15903": {
+      "agentId": "15903",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "16960": {
+      "agentId": "16960",
+      "nombre": "RICALDE TELLEZ,  DANIELA",
+      "ytd_payment_count": 5,
+      "ytd_paid_total": 3181.53,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 31793.84,
+          "subtotal": 33350.18,
+          "count": 2
+        },
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 1406.18,
+          "subtotal": 1475.01,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "06/09/2026",
+        "paymentTotal": 1271.75,
+        "paymentId": 1751645
+      },
+      "payments_2026": [
+        {
+          "date": "02/17/2026",
+          "total": 413.05,
+          "paymentId": 1724364
+        },
+        {
+          "date": "03/10/2026",
+          "total": 1271.75,
+          "paymentId": 1729381
+        },
+        {
+          "date": "04/28/2026",
+          "total": 112.49,
+          "paymentId": 1741435
+        },
+        {
+          "date": "05/19/2026",
+          "total": 112.49,
+          "paymentId": 1746010
+        },
+        {
+          "date": "06/09/2026",
+          "total": 1271.75,
+          "paymentId": 1751645
+        }
+      ]
+    },
+    "17024": {
+      "agentId": "17024",
+      "nombre": null,
+      "ytd_payment_count": 11,
+      "ytd_paid_total": 64424.91,
+      "ytd_breakdown": {},
+      "last_payment": {
+        "date": "05/26/2026",
+        "paymentTotal": 23907.69,
+        "paymentId": 1748130
+      },
+      "payments_2026": [
+        {
+          "date": "01/13/2026",
+          "total": 5643.69,
+          "paymentId": 1717417
+        },
+        {
+          "date": "01/27/2026",
+          "total": 581.79,
+          "paymentId": 1720293
+        },
+        {
+          "date": "02/17/2026",
+          "total": 9593.26,
+          "paymentId": 1724368
+        },
+        {
+          "date": "03/03/2026",
+          "total": 5410.76,
+          "paymentId": 1727634
+        },
+        {
+          "date": "03/10/2026",
+          "total": 758.12,
+          "paymentId": 1729385
+        },
+        {
+          "date": "03/17/2026",
+          "total": 7261.22,
+          "paymentId": 1731013
+        },
+        {
+          "date": "03/24/2026",
+          "total": 758.12,
+          "paymentId": 1733133
+        },
+        {
+          "date": "03/31/2026",
+          "total": 5991.48,
+          "paymentId": 1734603
+        },
+        {
+          "date": "04/21/2026",
+          "total": 758.12,
+          "paymentId": 1739579
+        },
+        {
+          "date": "04/28/2026",
+          "total": 3760.66,
+          "paymentId": 1741441
+        },
+        {
+          "date": "05/26/2026",
+          "total": 23907.69,
+          "paymentId": 1748130
+        }
+      ]
+    },
+    "17098": {
+      "agentId": "17098",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "17390": {
+      "agentId": "17390",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "17391": {
+      "agentId": "17391",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "17460": {
+      "agentId": "17460",
+      "nombre": "FLORES ARANDA,  MAURICIO JORDAN",
+      "ytd_payment_count": 1,
+      "ytd_paid_total": 3297.29,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 41216.17,
+          "subtotal": 43233.75,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "01/27/2026",
+        "paymentTotal": 3297.29,
+        "paymentId": 1719680
+      },
+      "payments_2026": [
+        {
+          "date": "01/27/2026",
+          "total": 3297.29,
+          "paymentId": 1719680
+        }
+      ]
+    },
+    "17637": {
+      "agentId": "17637",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "18374": {
+      "agentId": "18374",
+      "nombre": " LIMON POLO,  NAYELI MARGARITA",
+      "ytd_payment_count": 4,
+      "ytd_paid_total": 12753.35,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 65743.91,
+          "subtotal": 63164.72,
+          "count": 6
+        },
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 7493.83,
+          "subtotal": 7199.84,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "06/16/2026",
+        "paymentTotal": 7725.74,
+        "paymentId": 1753268
+      },
+      "payments_2026": [
+        {
+          "date": "03/10/2026",
+          "total": 569.77,
+          "paymentId": 1729038
+        },
+        {
+          "date": "04/21/2026",
+          "total": 4225.93,
+          "paymentId": 1739270
+        },
+        {
+          "date": "05/12/2026",
+          "total": 231.91,
+          "paymentId": 1744497
+        },
+        {
+          "date": "06/16/2026",
+          "total": 7725.74,
+          "paymentId": 1753268
+        }
+      ]
+    },
+    "18732": {
+      "agentId": "18732",
+      "nombre": "ZETUNE MESHOULAM,  LETTY",
+      "ytd_payment_count": 15,
+      "ytd_paid_total": 171692.68,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 169124.46999999997,
+          "subtotal": 162489.46999999997,
+          "count": 17
+        },
+        "ADJ Commissions|Individual Policies": {
+          "type": "ADJ Commissions",
+          "group": "Individual Policies",
+          "total": 19393.77,
+          "subtotal": 18632.93,
+          "count": 1
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 128177.67000000001,
+          "subtotal": 123149.1,
+          "count": 12
+        }
+      },
+      "last_payment": {
+        "date": "06/16/2026",
+        "paymentTotal": 13270.9,
+        "paymentId": 1753273
+      },
+      "payments_2026": [
+        {
+          "date": "01/13/2026",
+          "total": 3020.59,
+          "paymentId": 1716882
+        },
+        {
+          "date": "01/20/2026",
+          "total": 982.52,
+          "paymentId": 1718333
+        },
+        {
+          "date": "02/10/2026",
+          "total": 1101.87,
+          "paymentId": 1723204
+        },
+        {
+          "date": "02/10/2026",
+          "total": 24174.25,
+          "paymentId": 1722717
+        },
+        {
+          "date": "02/24/2026",
+          "total": 1585.21,
+          "paymentId": 1725861
+        },
+        {
+          "date": "03/10/2026",
+          "total": 40772.83,
+          "paymentId": 1729048
+        },
+        {
+          "date": "03/24/2026",
+          "total": 2220.81,
+          "paymentId": 1732825
+        },
+        {
+          "date": "03/31/2026",
+          "total": 861.17,
+          "paymentId": 1734373
+        },
+        {
+          "date": "04/14/2026",
+          "total": 6268.16,
+          "paymentId": 1737565
+        },
+        {
+          "date": "04/21/2026",
+          "total": 1016.54,
+          "paymentId": 1739277
+        },
+        {
+          "date": "04/28/2026",
+          "total": 9108.06,
+          "paymentId": 1741207
+        },
+        {
+          "date": "05/12/2026",
+          "total": 1496.53,
+          "paymentId": 1744506
+        },
+        {
+          "date": "05/26/2026",
+          "total": 27237.91,
+          "paymentId": 1747925
+        },
+        {
+          "date": "06/09/2026",
+          "total": 38575.33,
+          "paymentId": 1751176
+        },
+        {
+          "date": "06/16/2026",
+          "total": 13270.9,
+          "paymentId": 1753273
+        }
+      ]
+    },
+    "18791": {
+      "agentId": "18791",
+      "nombre": "ORTIZ GONZALEZ,  MIREYA NOEMI",
+      "ytd_payment_count": 2,
+      "ytd_paid_total": 1098.92,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 1098.9,
+          "subtotal": 1152.73,
+          "count": 5
+        }
+      },
+      "last_payment": {
+        "date": "05/05/2026",
+        "paymentTotal": 452.75,
+        "paymentId": 1742560
+      },
+      "payments_2026": [
+        {
+          "date": "03/17/2026",
+          "total": 646.17,
+          "paymentId": 1730983
+        },
+        {
+          "date": "05/05/2026",
+          "total": 452.75,
+          "paymentId": 1742560
+        }
+      ]
+    },
+    "18792": {
+      "agentId": "18792",
+      "nombre": "ESTRADA DIAZ,  VERONICA",
+      "ytd_payment_count": 9,
+      "ytd_paid_total": 72224.79,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 56899.590000000004,
+          "subtotal": 54667.340000000004,
+          "count": 9
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 35696.17,
+          "subtotal": 34295.78999999999,
+          "count": 15
+        },
+        "ADJ Commissions|Individual Policies": {
+          "type": "ADJ Commissions",
+          "group": "Individual Policies",
+          "total": 21851.34,
+          "subtotal": 20994.08,
+          "count": 2
+        }
+      },
+      "last_payment": {
+        "date": "06/16/2026",
+        "paymentTotal": 386.69,
+        "paymentId": 1753594
+      },
+      "payments_2026": [
+        {
+          "date": "01/05/2026",
+          "total": 24259.17,
+          "paymentId": 1715497
+        },
+        {
+          "date": "01/27/2026",
+          "total": 815.83,
+          "paymentId": 1719844
+        },
+        {
+          "date": "01/27/2026",
+          "total": 2196.74,
+          "paymentId": 1719780
+        },
+        {
+          "date": "03/03/2026",
+          "total": 258.01,
+          "paymentId": 1727726
+        },
+        {
+          "date": "03/03/2026",
+          "total": 31401.82,
+          "paymentId": 1727302
+        },
+        {
+          "date": "05/19/2026",
+          "total": 2171.92,
+          "paymentId": 1746085
+        },
+        {
+          "date": "05/19/2026",
+          "total": 433.85,
+          "paymentId": 1746314
+        },
+        {
+          "date": "06/02/2026",
+          "total": 10300.76,
+          "paymentId": 1749821
+        },
+        {
+          "date": "06/16/2026",
+          "total": 386.69,
+          "paymentId": 1753594
+        }
+      ]
+    },
+    "18901": {
+      "agentId": "18901",
+      "nombre": "SEGURIDAD ARIEVA, AGENTE DE SEGUROS JP",
+      "ytd_payment_count": 20,
+      "ytd_paid_total": 436972.13,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 4545348.7299999995,
+          "subtotal": 3918404.3700000006,
+          "count": 190
+        },
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 39249.630000000005,
+          "subtotal": 33835.89,
+          "count": 3
+        },
+        "ADJ Commissions|Individual Policies": {
+          "type": "ADJ Commissions",
+          "group": "Individual Policies",
+          "total": -13744.55,
+          "subtotal": -11848.75,
+          "count": 3
+        }
+      },
+      "last_payment": {
+        "date": "06/16/2026",
+        "paymentTotal": 94006.92,
+        "paymentId": 1753601
+      },
+      "payments_2026": [
+        {
+          "date": "01/05/2026",
+          "total": 3467.06,
+          "paymentId": 1715851
+        },
+        {
+          "date": "01/13/2026",
+          "total": 31240.65,
+          "paymentId": 1717071
+        },
+        {
+          "date": "01/20/2026",
+          "total": 15902.48,
+          "paymentId": 1718480
+        },
+        {
+          "date": "01/27/2026",
+          "total": 36576.5,
+          "paymentId": 1720177
+        },
+        {
+          "date": "02/03/2026",
+          "total": 9579.76,
+          "paymentId": 1721170
+        },
+        {
+          "date": "02/10/2026",
+          "total": 26492.52,
+          "paymentId": 1722855
+        },
+        {
+          "date": "02/17/2026",
+          "total": 12886.84,
+          "paymentId": 1724551
+        },
+        {
+          "date": "02/24/2026",
+          "total": 20964.14,
+          "paymentId": 1726027
+        },
+        {
+          "date": "03/03/2026",
+          "total": 15598.5,
+          "paymentId": 1727735
+        },
+        {
+          "date": "03/10/2026",
+          "total": 18194.81,
+          "paymentId": 1729481
+        },
+        {
+          "date": "03/17/2026",
+          "total": 1441.47,
+          "paymentId": 1731172
+        },
+        {
+          "date": "03/24/2026",
+          "total": 24187.46,
+          "paymentId": 1733213
+        },
+        {
+          "date": "03/31/2026",
+          "total": 18132.06,
+          "paymentId": 1734687
+        },
+        {
+          "date": "04/07/2026",
+          "total": 15160.77,
+          "paymentId": 1735868
+        },
+        {
+          "date": "04/14/2026",
+          "total": 20528.6,
+          "paymentId": 1737876
+        },
+        {
+          "date": "04/21/2026",
+          "total": 19830.09,
+          "paymentId": 1739664
+        },
+        {
+          "date": "04/28/2026",
+          "total": 33356.7,
+          "paymentId": 1741515
+        },
+        {
+          "date": "05/05/2026",
+          "total": 13671.15,
+          "paymentId": 1742850
+        },
+        {
+          "date": "05/12/2026",
+          "total": 5753.65,
+          "paymentId": 1744256
+        },
+        {
+          "date": "06/16/2026",
+          "total": 94006.92,
+          "paymentId": 1753601
+        }
+      ]
+    },
+    "18902": {
+      "agentId": "18902",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "18936": {
+      "agentId": "18936",
+      "nombre": "MORALES MARTINEZ,  FRANK LUIS",
+      "ytd_payment_count": 2,
+      "ytd_paid_total": 10371.65,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 17145.85,
+          "subtotal": 16473.190000000002,
+          "count": 2
+        }
+      },
+      "last_payment": {
+        "date": "06/09/2026",
+        "paymentTotal": 8999.98,
+        "paymentId": 1751274
+      },
+      "payments_2026": [
+        {
+          "date": "05/12/2026",
+          "total": 1371.67,
+          "paymentId": 1744589
+        },
+        {
+          "date": "06/09/2026",
+          "total": 8999.98,
+          "paymentId": 1751274
+        }
+      ]
+    },
+    "18956": {
+      "agentId": "18956",
+      "nombre": "CORDOBA MALDONADO,  RICARDO",
+      "ytd_payment_count": 4,
+      "ytd_paid_total": 121338.04,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 52873.619999999995,
+          "subtotal": 50799.3,
+          "count": 21
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 149357.78999999998,
+          "subtotal": 143498.33000000002,
+          "count": 18
+        },
+        "ADJ Commissions|Individual Policies": {
+          "type": "ADJ Commissions",
+          "group": "Individual Policies",
+          "total": 10670.58,
+          "subtotal": 10251.96,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "05/19/2026",
+        "paymentTotal": 17583,
+        "paymentId": 1745794
+      },
+      "payments_2026": [
+        {
+          "date": "01/27/2026",
+          "total": 22885.78,
+          "paymentId": 1719794
+        },
+        {
+          "date": "04/07/2026",
+          "total": 80254.13,
+          "paymentId": 1735811
+        },
+        {
+          "date": "05/12/2026",
+          "total": 615.13,
+          "paymentId": 1744458
+        },
+        {
+          "date": "05/19/2026",
+          "total": 17583,
+          "paymentId": 1745794
+        }
+      ]
+    },
+    "19038": {
+      "agentId": "19038",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "19218": {
+      "agentId": "19218",
+      "nombre": "KUSULAS ZERON,  DEMETRIO",
+      "ytd_payment_count": 1,
+      "ytd_paid_total": 2245.31,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 28066.45,
+          "subtotal": 26965.35,
+          "count": 5
+        }
+      },
+      "last_payment": {
+        "date": "02/24/2026",
+        "paymentTotal": 2245.31,
+        "paymentId": 1725879
+      },
+      "payments_2026": [
+        {
+          "date": "02/24/2026",
+          "total": 2245.31,
+          "paymentId": 1725879
+        }
+      ]
+    },
+    "19255": {
+      "agentId": "19255",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "19304": {
+      "agentId": "19304",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "19327": {
+      "agentId": "19327",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "19368": {
+      "agentId": "19368",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "19391": {
+      "agentId": "19391",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "19520": {
+      "agentId": "19520",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "19561": {
+      "agentId": "19561",
+      "nombre": "TEJEDA ZERON,  EDUARDO",
+      "ytd_payment_count": 3,
+      "ytd_paid_total": 3436.83,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 2687.24,
+          "subtotal": 2818.79,
+          "count": 10
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 749.5800000000002,
+          "subtotal": 786.3,
+          "count": 6
+        }
+      },
+      "last_payment": {
+        "date": "05/19/2026",
+        "paymentTotal": 1490.19,
+        "paymentId": 1745816
+      },
+      "payments_2026": [
+        {
+          "date": "01/13/2026",
+          "total": 1080.92,
+          "paymentId": 1716952
+        },
+        {
+          "date": "04/14/2026",
+          "total": 865.72,
+          "paymentId": 1737604
+        },
+        {
+          "date": "05/19/2026",
+          "total": 1490.19,
+          "paymentId": 1745816
+        }
+      ]
+    },
+    "19607": {
+      "agentId": "19607",
+      "nombre": "PORTENY SCHIDLOW,  ARTURO",
+      "ytd_payment_count": 7,
+      "ytd_paid_total": 17779.13,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 5214.47,
+          "subtotal": 5009.9,
+          "count": 1
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 157058.33000000002,
+          "subtotal": 150896.72999999998,
+          "count": 7
+        }
+      },
+      "last_payment": {
+        "date": "05/26/2026",
+        "paymentTotal": 6062.26,
+        "paymentId": 1748281
+      },
+      "payments_2026": [
+        {
+          "date": "01/20/2026",
+          "total": 7110.64,
+          "paymentId": 1718582
+        },
+        {
+          "date": "01/27/2026",
+          "total": 338.24,
+          "paymentId": 1720229
+        },
+        {
+          "date": "02/10/2026",
+          "total": 1016.79,
+          "paymentId": 1722923
+        },
+        {
+          "date": "03/31/2026",
+          "total": 338.24,
+          "paymentId": 1734750
+        },
+        {
+          "date": "04/14/2026",
+          "total": 1016.79,
+          "paymentId": 1737942
+        },
+        {
+          "date": "04/28/2026",
+          "total": 1896.17,
+          "paymentId": 1741586
+        },
+        {
+          "date": "05/26/2026",
+          "total": 6062.26,
+          "paymentId": 1748281
+        }
+      ]
+    },
+    "19703": {
+      "agentId": "19703",
+      "nombre": "RAMIREZ ROMO,  LIZBETH",
+      "ytd_payment_count": 5,
+      "ytd_paid_total": 31096.35,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 64346.02,
+          "subtotal": 67495.84,
+          "count": 15
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 7919.39,
+          "subtotal": 8307.06,
+          "count": 4
+        }
+      },
+      "last_payment": {
+        "date": "06/16/2026",
+        "paymentTotal": 3479.8,
+        "paymentId": 1753315
+      },
+      "payments_2026": [
+        {
+          "date": "03/17/2026",
+          "total": 8406.67,
+          "paymentId": 1730754
+        },
+        {
+          "date": "03/31/2026",
+          "total": 1902.42,
+          "paymentId": 1734403
+        },
+        {
+          "date": "05/12/2026",
+          "total": 10129.58,
+          "paymentId": 1744665
+        },
+        {
+          "date": "05/19/2026",
+          "total": 7177.88,
+          "paymentId": 1745823
+        },
+        {
+          "date": "06/16/2026",
+          "total": 3479.8,
+          "paymentId": 1753315
+        }
+      ]
+    },
+    "19780": {
+      "agentId": "19780",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "19940": {
+      "agentId": "19940",
+      "nombre": "MORA BARROSO,  DALHIA LETICIA",
+      "ytd_payment_count": 1,
+      "ytd_paid_total": 4930.7,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 4930.7,
+          "subtotal": 5172.07,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "04/07/2026",
+        "paymentTotal": 4930.7,
+        "paymentId": 1735674
+      },
+      "payments_2026": [
+        {
+          "date": "04/07/2026",
+          "total": 4930.7,
+          "paymentId": 1735674
+        }
+      ]
+    },
+    "20019": {
+      "agentId": "20019",
+      "nombre": "MORALES MEDINA,  DOMINGO ANSELMO",
+      "ytd_payment_count": 1,
+      "ytd_paid_total": 2422.63,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 2422.63,
+          "subtotal": 2541.22,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "03/31/2026",
+        "paymentTotal": 2422.63,
+        "paymentId": 1734413
+      },
+      "payments_2026": [
+        {
+          "date": "03/31/2026",
+          "total": 2422.63,
+          "paymentId": 1734413
+        }
+      ]
+    },
+    "20074": {
+      "agentId": "20074",
+      "nombre": "PEREZ MENDEZ,  ERIKA BEATRIZ",
+      "ytd_payment_count": 2,
+      "ytd_paid_total": 7548.23,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 6416.200000000001,
+          "subtotal": 6730.280000000001,
+          "count": 4
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 1132.0500000000002,
+          "subtotal": 1187.46,
+          "count": 3
+        }
+      },
+      "last_payment": {
+        "date": "06/09/2026",
+        "paymentTotal": 4371.85,
+        "paymentId": 1751242
+      },
+      "payments_2026": [
+        {
+          "date": "01/05/2026",
+          "total": 3176.38,
+          "paymentId": 1715624
+        },
+        {
+          "date": "06/09/2026",
+          "total": 4371.85,
+          "paymentId": 1751242
+        }
+      ]
+    },
+    "20115": {
+      "agentId": "20115",
+      "nombre": "MARQUEZ CORIA,  JOSÉ FRANCISCO",
+      "ytd_payment_count": 1,
+      "ytd_paid_total": 1741.31,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 1741.31,
+          "subtotal": 1826.55,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "03/17/2026",
+        "paymentTotal": 1741.31,
+        "paymentId": 1730766
+      },
+      "payments_2026": [
+        {
+          "date": "03/17/2026",
+          "total": 1741.31,
+          "paymentId": 1730766
+        }
+      ]
+    },
+    "20116": {
+      "agentId": "20116",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20124": {
+      "agentId": "20124",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20141": {
+      "agentId": "20141",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20286": {
+      "agentId": "20286",
+      "nombre": "CORTES RAMIREZ,  CARLOS FRANCISCO",
+      "ytd_payment_count": 1,
+      "ytd_paid_total": 5884.77,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 5884.77,
+          "subtotal": 6172.84,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "01/27/2026",
+        "paymentTotal": 5884.77,
+        "paymentId": 1719617
+      },
+      "payments_2026": [
+        {
+          "date": "01/27/2026",
+          "total": 5884.77,
+          "paymentId": 1719617
+        }
+      ]
+    },
+    "20300": {
+      "agentId": "20300",
+      "nombre": "BECERRIL RAMIREZ,  MARIA DEYANIRA",
+      "ytd_payment_count": 4,
+      "ytd_paid_total": 21982.14,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 2798.3999999999996,
+          "subtotal": 2688.6000000000004,
+          "count": 5
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 55733.96,
+          "subtotal": 53547.45,
+          "count": 5
+        }
+      },
+      "last_payment": {
+        "date": "05/26/2026",
+        "paymentTotal": 6311.99,
+        "paymentId": 1747729
+      },
+      "payments_2026": [
+        {
+          "date": "02/17/2026",
+          "total": 1119.36,
+          "paymentId": 1724174
+        },
+        {
+          "date": "02/24/2026",
+          "total": 13431.43,
+          "paymentId": 1725856
+        },
+        {
+          "date": "04/14/2026",
+          "total": 1119.36,
+          "paymentId": 1737324
+        },
+        {
+          "date": "05/26/2026",
+          "total": 6311.99,
+          "paymentId": 1747729
+        }
+      ]
+    },
+    "20306": {
+      "agentId": "20306",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20309": {
+      "agentId": "20309",
+      "nombre": "CRUZ ALBEAR,  JONY",
+      "ytd_payment_count": 6,
+      "ytd_paid_total": 8027.7,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 3719.7099999999996,
+          "subtotal": 3901.8100000000004,
+          "count": 7
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 4307.99,
+          "subtotal": 4518.87,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "06/16/2026",
+        "paymentTotal": 551.37,
+        "paymentId": 1753089
+      },
+      "payments_2026": [
+        {
+          "date": "03/24/2026",
+          "total": 1085.27,
+          "paymentId": 1732928
+        },
+        {
+          "date": "04/14/2026",
+          "total": 997.8,
+          "paymentId": 1737325
+        },
+        {
+          "date": "04/28/2026",
+          "total": 4307.99,
+          "paymentId": 1740973
+        },
+        {
+          "date": "05/19/2026",
+          "total": 446.43,
+          "paymentId": 1745539
+        },
+        {
+          "date": "06/09/2026",
+          "total": 638.84,
+          "paymentId": 1751253
+        },
+        {
+          "date": "06/16/2026",
+          "total": 551.37,
+          "paymentId": 1753089
+        }
+      ]
+    },
+    "20317": {
+      "agentId": "20317",
+      "nombre": "MORA MEDINA,  ALEJANDRO ERIC",
+      "ytd_payment_count": 2,
+      "ytd_paid_total": 6153,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 6152.96,
+          "subtotal": 5911.58,
+          "count": 11
+        }
+      },
+      "last_payment": {
+        "date": "06/16/2026",
+        "paymentTotal": 4970.99,
+        "paymentId": 1753090
+      },
+      "payments_2026": [
+        {
+          "date": "02/24/2026",
+          "total": 1182.01,
+          "paymentId": 1725857
+        },
+        {
+          "date": "06/16/2026",
+          "total": 4970.99,
+          "paymentId": 1753090
+        }
+      ]
+    },
+    "20327": {
+      "agentId": "20327",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20345": {
+      "agentId": "20345",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20369": {
+      "agentId": "20369",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20433": {
+      "agentId": "20433",
+      "nombre": "RAZO BARRAGAN,  MOISES",
+      "ytd_payment_count": 1,
+      "ytd_paid_total": 3627.87,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 3627.87,
+          "subtotal": 3485.54,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "06/16/2026",
+        "paymentTotal": 3627.87,
+        "paymentId": 1753095
+      },
+      "payments_2026": [
+        {
+          "date": "06/16/2026",
+          "total": 3627.87,
+          "paymentId": 1753095
+        }
+      ]
+    },
+    "20441": {
+      "agentId": "20441",
+      "nombre": "SALAME SACAL,  ALFREDO",
+      "ytd_payment_count": 24,
+      "ytd_paid_total": 128789.1,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 626842.95,
+          "subtotal": 657527.77,
+          "count": 68
+        },
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 40453.95,
+          "subtotal": 42434.24,
+          "count": 31
+        }
+      },
+      "last_payment": {
+        "date": "06/16/2026",
+        "paymentTotal": 9780.46,
+        "paymentId": 1753744
+      },
+      "payments_2026": [
+        {
+          "date": "01/05/2026",
+          "total": 90.28,
+          "paymentId": 1715899
+        },
+        {
+          "date": "01/13/2026",
+          "total": 7237.12,
+          "paymentId": 1717237
+        },
+        {
+          "date": "01/20/2026",
+          "total": 5686.21,
+          "paymentId": 1718779
+        },
+        {
+          "date": "01/27/2026",
+          "total": 1597.15,
+          "paymentId": 1719877
+        },
+        {
+          "date": "02/03/2026",
+          "total": 7490.16,
+          "paymentId": 1721308
+        },
+        {
+          "date": "02/10/2026",
+          "total": 11025.21,
+          "paymentId": 1723005
+        },
+        {
+          "date": "02/17/2026",
+          "total": 2755.55,
+          "paymentId": 1724714
+        },
+        {
+          "date": "02/24/2026",
+          "total": 2042.58,
+          "paymentId": 1725966
+        },
+        {
+          "date": "03/03/2026",
+          "total": 2959.51,
+          "paymentId": 1727416
+        },
+        {
+          "date": "03/10/2026",
+          "total": 386.81,
+          "paymentId": 1729407
+        },
+        {
+          "date": "03/17/2026",
+          "total": 2505.73,
+          "paymentId": 1731340
+        },
+        {
+          "date": "03/24/2026",
+          "total": 1910.18,
+          "paymentId": 1733369
+        },
+        {
+          "date": "03/31/2026",
+          "total": 9686.16,
+          "paymentId": 1734824
+        },
+        {
+          "date": "04/07/2026",
+          "total": 591.07,
+          "paymentId": 1736187
+        },
+        {
+          "date": "04/14/2026",
+          "total": 386.81,
+          "paymentId": 1738020
+        },
+        {
+          "date": "04/21/2026",
+          "total": 21744.86,
+          "paymentId": 1739821
+        },
+        {
+          "date": "04/28/2026",
+          "total": 2526.55,
+          "paymentId": 1741657
+        },
+        {
+          "date": "05/06/2026",
+          "total": 6650.71,
+          "paymentId": 1743124
+        },
+        {
+          "date": "05/12/2026",
+          "total": 386.81,
+          "paymentId": 1744396
+        },
+        {
+          "date": "05/19/2026",
+          "total": 2716.04,
+          "paymentId": 1746322
+        },
+        {
+          "date": "05/26/2026",
+          "total": 12245.66,
+          "paymentId": 1748354
+        },
+        {
+          "date": "06/02/2026",
+          "total": 9912.2,
+          "paymentId": 1749977
+        },
+        {
+          "date": "06/09/2026",
+          "total": 6475.28,
+          "paymentId": 1751526
+        },
+        {
+          "date": "06/16/2026",
+          "total": 9780.46,
+          "paymentId": 1753744
+        }
+      ]
+    },
+    "20496": {
+      "agentId": "20496",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20497": {
+      "agentId": "20497",
+      "nombre": "GIL RAMIREZ,  SERGIO RAUL",
+      "ytd_payment_count": 8,
+      "ytd_paid_total": 32912.82,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 21159.25,
+          "subtotal": 20329.12,
+          "count": 5
+        },
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 11753.56,
+          "subtotal": 11292.460000000001,
+          "count": 5
+        }
+      },
+      "last_payment": {
+        "date": "06/09/2026",
+        "paymentTotal": 1763.9,
+        "paymentId": 1751537
+      },
+      "payments_2026": [
+        {
+          "date": "01/13/2026",
+          "total": 1836.62,
+          "paymentId": 1717245
+        },
+        {
+          "date": "02/10/2026",
+          "total": 1836.62,
+          "paymentId": 1723026
+        },
+        {
+          "date": "03/10/2026",
+          "total": 1836.62,
+          "paymentId": 1729416
+        },
+        {
+          "date": "03/24/2026",
+          "total": 3658.01,
+          "paymentId": 1733378
+        },
+        {
+          "date": "04/07/2026",
+          "total": 1836.62,
+          "paymentId": 1736195
+        },
+        {
+          "date": "05/12/2026",
+          "total": 15788.89,
+          "paymentId": 1744406
+        },
+        {
+          "date": "05/26/2026",
+          "total": 4355.54,
+          "paymentId": 1748366
+        },
+        {
+          "date": "06/09/2026",
+          "total": 1763.9,
+          "paymentId": 1751537
+        }
+      ]
+    },
+    "20498": {
+      "agentId": "20498",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20505": {
+      "agentId": "20505",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20602": {
+      "agentId": "20602",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20606": {
+      "agentId": "20606",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20794": {
+      "agentId": "20794",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20909": {
+      "agentId": "20909",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20937": {
+      "agentId": "20937",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20941": {
+      "agentId": "20941",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20945": {
+      "agentId": "20945",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20960": {
+      "agentId": "20960",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20983": {
+      "agentId": "20983",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20987": {
+      "agentId": "20987",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20993": {
+      "agentId": "20993",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "20999": {
+      "agentId": "20999",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21005": {
+      "agentId": "21005",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21037": {
+      "agentId": "21037",
+      "nombre": "VIYA ASESORES, AGENTE DE SEGUROS",
+      "ytd_payment_count": 3,
+      "ytd_paid_total": 24413.62,
+      "ytd_breakdown": {
+        "RN Commissions|Individual Policies": {
+          "type": "RN Commissions",
+          "group": "Individual Policies",
+          "total": 218049.82,
+          "subtotal": 187973.99,
+          "count": 4
+        },
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 6969.64,
+          "subtotal": 6008.31,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "06/02/2026",
+        "paymentTotal": 6969.64,
+        "paymentId": 1749487
+      },
+      "payments_2026": [
+        {
+          "date": "04/14/2026",
+          "total": 8083.5,
+          "paymentId": 1737344
+        },
+        {
+          "date": "05/19/2026",
+          "total": 9360.48,
+          "paymentId": 1745555
+        },
+        {
+          "date": "06/02/2026",
+          "total": 6969.64,
+          "paymentId": 1749487
+        }
+      ]
+    },
+    "21059": {
+      "agentId": "21059",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21063": {
+      "agentId": "21063",
+      "nombre": "RUEDA GONZALEZ,  MONICA MARIA ESTHER",
+      "ytd_payment_count": 7,
+      "ytd_paid_total": 53136.67,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 53136.68,
+          "subtotal": 51052,
+          "count": 30
+        }
+      },
+      "last_payment": {
+        "date": "06/02/2026",
+        "paymentTotal": 2546.32,
+        "paymentId": 1749488
+      },
+      "payments_2026": [
+        {
+          "date": "01/13/2026",
+          "total": 19419.47,
+          "paymentId": 1716779
+        },
+        {
+          "date": "03/24/2026",
+          "total": 9440.71,
+          "paymentId": 1732944
+        },
+        {
+          "date": "03/31/2026",
+          "total": 3968.49,
+          "paymentId": 1734227
+        },
+        {
+          "date": "04/21/2026",
+          "total": 3715.73,
+          "paymentId": 1739252
+        },
+        {
+          "date": "05/12/2026",
+          "total": 5260.37,
+          "paymentId": 1744771
+        },
+        {
+          "date": "05/19/2026",
+          "total": 8785.58,
+          "paymentId": 1745558
+        },
+        {
+          "date": "06/02/2026",
+          "total": 2546.32,
+          "paymentId": 1749488
+        }
+      ]
+    },
+    "21064": {
+      "agentId": "21064",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21075": {
+      "agentId": "21075",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21136": {
+      "agentId": "21136",
+      "nombre": "COLIN NAVARIJO,  JORGE ALEJANDRO",
+      "ytd_payment_count": 2,
+      "ytd_paid_total": 8136.77,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 8136.77,
+          "subtotal": 7817.55,
+          "count": 2
+        }
+      },
+      "last_payment": {
+        "date": "04/28/2026",
+        "paymentTotal": 5914.64,
+        "paymentId": 1741057
+      },
+      "payments_2026": [
+        {
+          "date": "03/31/2026",
+          "total": 2222.13,
+          "paymentId": 1734230
+        },
+        {
+          "date": "04/28/2026",
+          "total": 5914.64,
+          "paymentId": 1741057
+        }
+      ]
+    },
+    "21212": {
+      "agentId": "21212",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21328": {
+      "agentId": "21328",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21333": {
+      "agentId": "21333",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21378": {
+      "agentId": "21378",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21401": {
+      "agentId": "21401",
+      "nombre": "SANCHEZ OLIVAS,  DOLORES",
+      "ytd_payment_count": 1,
+      "ytd_paid_total": 3074.01,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 3074.01,
+          "subtotal": 2953.41,
+          "count": 1
+        }
+      },
+      "last_payment": {
+        "date": "04/07/2026",
+        "paymentTotal": 3074.01,
+        "paymentId": 1735724
+      },
+      "payments_2026": [
+        {
+          "date": "04/07/2026",
+          "total": 3074.01,
+          "paymentId": 1735724
+        }
+      ]
+    },
+    "21407": {
+      "agentId": "21407",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21417": {
+      "agentId": "21417",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21443": {
+      "agentId": "21443",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21447": {
+      "agentId": "21447",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21462": {
+      "agentId": "21462",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21487": {
+      "agentId": "21487",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21494": {
+      "agentId": "21494",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21576": {
+      "agentId": "21576",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21594": {
+      "agentId": "21594",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21621": {
+      "agentId": "21621",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21744": {
+      "agentId": "21744",
+      "nombre": "CASTILLO HERRERA,  CESAR JAVIER",
+      "ytd_payment_count": 2,
+      "ytd_paid_total": 14622.55,
+      "ytd_breakdown": {
+        "NB Commissions|Individual Policies": {
+          "type": "NB Commissions",
+          "group": "Individual Policies",
+          "total": 14622.55,
+          "subtotal": 14048.89,
+          "count": 4
+        }
+      },
+      "last_payment": {
+        "date": "05/26/2026",
+        "paymentTotal": 6904.2,
+        "paymentId": 1747815
+      },
+      "payments_2026": [
+        {
+          "date": "04/14/2026",
+          "total": 7718.35,
+          "paymentId": 1737359
+        },
+        {
+          "date": "05/26/2026",
+          "total": 6904.2,
+          "paymentId": 1747815
+        }
+      ]
+    },
+    "21745": {
+      "agentId": "21745",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21795": {
+      "agentId": "21795",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21822": {
+      "agentId": "21822",
+      "nombre": "SILVA PEREDO,  ADRIANA",
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null,
+      "payments_2026": []
+    },
+    "21869": {
+      "agentId": "21869",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21876": {
+      "agentId": "21876",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    },
+    "21959": {
+      "agentId": "21959",
+      "nombre": null,
+      "ytd_payment_count": 0,
+      "ytd_paid_total": 0,
+      "ytd_breakdown": {},
+      "last_payment": null
+    }
+  }
+}
