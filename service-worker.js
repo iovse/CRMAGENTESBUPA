@@ -1,5 +1,5 @@
 // Service worker — network-first para HTML/JS, cache-first para íconos
-const CACHE = 'bupa-crm-v9';
+const CACHE = 'bupa-crm-v10';
 const ASSETS = [
   './manifest.webmanifest',
   './icon-192.png',
